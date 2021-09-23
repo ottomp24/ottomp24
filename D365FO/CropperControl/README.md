@@ -4,6 +4,13 @@
 
 This control has been created using the Microsoft Extensibility Framework along with HTML5, CSS3 and JavaScript.
 
+## Installation
+
+1. Go to Visual Studio > Dynamic D365 > Import Project...
+1. Select the .AXPP file and hit OK.
+
+Files can also be extracted from the .AXPP file by just changing the file extension to .ZIP if needed.
+
 ## Notes
 
 For this demo, open source cropperjs library was used. More details: https://fengyuanchen.github.io/cropperjs/. 
