@@ -2,4 +2,5 @@ Cropper control is a D365 Extensible Control created for demonstration purposes 
 
 This control has been created using the Microsoft Extensibility Framework along with HTML5, CSS3 and JavaScript.
 
-For this demo, open source cropperjs library was used. More details on such library: https://fengyuanchen.github.io/cropperjs/.
+For this demo, open source cropperjs library was used. More details: https://fengyuanchen.github.io/cropperjs/. 
+No modifications were made to such library and it's only used to demonstrate how Extensible Controls work fine with any JavaScript library. All rights belongs to the owner only.
