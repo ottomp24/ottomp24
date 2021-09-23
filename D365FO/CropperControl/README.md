@@ -14,4 +14,4 @@ Files can also be extracted from the .AXPP file by just changing the file extens
 ## Notes
 
 For this demo, open source cropperjs library was used. More details: https://fengyuanchen.github.io/cropperjs/. 
-No modifications were made to such library and it's only used to demonstrate how Extensible Controls work fine with any JavaScript library. All rights belongs to the owner only.
+No modifications were made to such library and it's only used to demonstrate how Extensible Controls work fine with any JavaScript library. All rights belong to the owner only.
