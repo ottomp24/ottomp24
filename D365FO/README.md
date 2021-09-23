@@ -1,0 +1,1 @@
+D365FO is a code repository created with the idea to share X++ snippets that may be useful for anyone.
